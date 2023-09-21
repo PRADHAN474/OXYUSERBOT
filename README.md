@@ -7,7 +7,7 @@
 
 - ⚠️ ᴅᴏ ɴᴏᴛ ғᴏʀɢᴇᴛ ᴛᴏ ғᴏʀᴋ ᴛʜɪs ʀᴇᴘᴏ. ᴇʟsᴇ ᴇʀʀᴏʀ ᴄᴀɴ ᴏᴄᴄᴜʀ ɪɴ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ.
 
-<p align="left"><a href="https://dashboard.heroku.com/new?template=https://github.com/PRADHAN474/OXYUSERBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-cyan?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="left"><a href="https://dashboard.heroku.com/new?template=https://github.com/flake91/flakeUSERBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-cyan?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 ━━━━━━━━━━━━━━━━━━━━━━
 
 # Rᴇǫᴜɪʀᴇᴍᴇɴᴛs
